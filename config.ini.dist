@@ -26,6 +26,7 @@ redis_url = redis://localhost:6379/0
 redis_prefix = botbot-
 plugin_dirs = /home/skull/dev/botbot-plugins
 plugin_blacklist = 
+lang = en
 
 [Links]
 mode = whitelist
