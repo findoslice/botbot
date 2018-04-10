@@ -25,3 +25,4 @@ traitlets==4.0.0
 urbandictionary==1.1
 dnspython==1.15.0
 raven==6.4.0
+langdetect==1.0.7
